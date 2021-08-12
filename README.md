@@ -1,4 +1,4 @@
-# ReportOfReports
+# Servicenow - ReportOfReports
 This UpdateSet will create a Database View which links the various Report, Portal, Dashboard tables. This will find it not only from portal page also even from the canvas page
 From this view, you can achieve below things
 1) Identify the Reports which belongs to a specific Dashboard
